@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData />
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v="..\..\..\..\Programs\Axios_v1_FreeRTOS\FreeRTOS_Demo.cydsn\FreeRTOS_Demo.cydwr" />
+<name v="..\..\..\..\Programs\Axios_v1_FreeRTOS\FreeRTOS_Demo.cydsn\TopDesign\TopDesign.cysch" />
+<name v="..\..\..\..\Programs\Axios_v1_FreeRTOS\FreeRTOS_Demo.cydsn\main.c" />
+<name v="..\..\..\..\Programs\Axios_v1_FreeRTOS\FreeRTOS_Demo.cydsn\freertos\src\croutine.c" />
+<name v=".\RTOS_RGB.cydsn\TopDesign\TopDesign.cysch" />
+</OpenDocs>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
