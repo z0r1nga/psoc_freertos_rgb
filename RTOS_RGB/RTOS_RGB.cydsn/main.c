@@ -1,14 +1,15 @@
-/* ========================================
- *
- * Copyright YOUR COMPANY, THE YEAR
- * All Rights Reserved
- * UNPUBLISHED, LICENSED SOFTWARE.
- *
- * CONFIDENTIAL AND PROPRIETARY INFORMATION
- * WHICH IS THE PROPERTY OF your company.
- *
- * ========================================
+	
+/*
+ FreeRTOS Demo on Cypress PSoC5LP Device
+ -----------------------------------------
+ Title  : FreeRTOS 
+ Author : Krutin Karia
+ Date : Feb 01 2014
+ This code is licensed as CC-BY-SA 3.0
+ Description : FreeRTOS Demo of RGB Led
 */
+
+
 #include <project.h>
 
 int main()
